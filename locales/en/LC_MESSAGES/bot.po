@@ -1,0 +1,111 @@
+# English translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-31 12:31+0300\n"
+"PO-Revision-Date: 2023-01-30 18:32+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/groups/callback.py:23 handlers/users/callback.py:21
+msgid "✅ New language successfully set!"
+msgstr ""
+
+#: handlers/groups/callback.py:25
+msgid ""
+"\n"
+"<b>👋 Hello!</b>\n"
+"\n"
+"🔆 <b>Send a picture here, and I'll transform it into an anime style using"
+" a neural network.</b>\n"
+"\n"
+"<i>🌐 /lang - change language</i>\n"
+"    "
+msgstr ""
+
+#: handlers/groups/media.py:13 handlers/users/media.py:14
+msgid ""
+"\n"
+"🌠 Photo processing..\n"
+"Wait ~10 seconds    \n"
+msgstr ""
+
+#: handlers/groups/media.py:28 handlers/users/media.py:29
+msgid ""
+"\n"
+"⛔️<b> Service have returned an error.</b>\n"
+"\n"
+"<b>✒️ Error body:</b> <i>{}</i>   \n"
+msgstr ""
+
+#: handlers/groups/start.py:47 handlers/groups/start.py:55
+msgid ""
+"\n"
+"<b>👋 Hello!</b>\n"
+"\n"
+"🔆 <b>Send a picture here, and I'll transform it into an anime style using"
+" a neural network.</b>\n"
+"\n"
+"<i>🌐 /lang - change language</i>\n"
+msgstr ""
+
+#: handlers/users/callback.py:23 handlers/users/start.py:13
+msgid ""
+"\n"
+"<b>👋 Hello!</b>\n"
+"\n"
+"🔆 <b>Send a picture here, and I'll transform it into an anime style using"
+" a neural network.</b>\n"
+"\n"
+"🐰 <i>You can also add a bot to the chat and have fun with friends!</i>\n"
+msgstr ""
+
+#: handlers/users/lang.py:11
+msgid "🌐 <b>Choose new language</b>"
+msgstr ""
+
+#: keyboards/inline/menu.py:15
+msgid "Add"
+msgstr ""
+
+#: keyboards/inline/menu.py:40
+msgid "Close"
+msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "<b>👋 Hello!</b>\n"
+#~ "\n"
+#~ "🔆 <b>Send a picture here, and I'll"
+#~ " transform it into an anime style "
+#~ "using a neural network.</b>\n"
+#~ "\n"
+#~ "<i>🌐 /lang - change language</i>\n"
+#~ "    "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "<b>👋 Hello!</b>\n"
+#~ "\n"
+#~ "🔆 <b>Send a picture here, and I'll"
+#~ " transform it into an anime style "
+#~ "using a neural network.</b>\n"
+#~ "\n"
+#~ "🐰 <i>You can also add a bot "
+#~ "to the chat and have fun with "
+#~ "friends!</i>\n"
+#~ "    "
+#~ msgstr ""
+
